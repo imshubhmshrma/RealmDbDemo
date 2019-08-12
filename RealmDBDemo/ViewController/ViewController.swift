@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  RealmSwift
 //
-//  Created by Riccardo Rizzo on 12/07/17.
-//  Copyright © 2017 Riccardo Rizzo. All rights reserved.
+//  Created by Shubham on 12/07/17.
+//  Copyright © 2017 Shubham. All rights reserved.
 //
 
 import UIKit
